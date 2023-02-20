@@ -1,0 +1,1561 @@
+LocationType,Location,TimeFrame,DataFormat,Data
+Nation,United States,2007,Number,2109000
+Nation,United States,2007,Percent,0.04
+Nation,United States,2008,Percent,0.05
+Nation,United States,2008,Number,2647000
+Nation,United States,2013,Number,3184000
+Nation,United States,2018,Percent,0.03
+Nation,United States,2013,Percent,0.06
+Nation,United States,2018,Number,1622000
+Nation,United States,2009,Number,4345000
+Nation,United States,2009,Percent,0.08
+Nation,United States,2010,Percent,0.08
+Nation,United States,2010,Number,4517000
+Nation,United States,2015,Number,2254000
+Nation,United States,2015,Percent,0.04
+Nation,United States,2020,Percent,0.07
+Nation,United States,2020,Number,3307000
+Nation,United States,2011,Number,4143000
+Nation,United States,2011,Percent,0.08
+Nation,United States,2012,Percent,0.07
+Nation,United States,2012,Number,3665000
+Nation,United States,2014,Number,2635000
+Nation,United States,2014,Percent,0.05
+Nation,United States,2016,Percent,0.04
+Nation,United States,2016,Number,2089000
+Nation,United States,2017,Number,1841000
+Nation,United States,2017,Percent,0.04
+Nation,United States,2019,Percent,0.03
+Nation,United States,2021,Number,2234000
+Nation,United States,2019,Number,1485000
+Nation,United States,2021,Percent,0.04
+State,Alabama,2021,Percent,0.03
+State,Alabama,2019,Number,18000
+State,Alabama,2021,Number,19000
+State,Alabama,2019,Percent,0.02
+State,Alabama,2017,Percent,0.03
+State,Alabama,2016,Number,33000
+State,Alabama,2017,Number,24000
+State,Alabama,2014,Percent,0.06
+State,Alabama,2016,Percent,0.05
+State,Alabama,2014,Number,46000
+State,Alabama,2012,Number,59000
+State,Alabama,2012,Percent,0.08
+State,Alabama,2011,Percent,0.08
+State,Alabama,2011,Number,64000
+State,Alabama,2020,Number,41000
+State,Alabama,2015,Percent,0.06
+State,Alabama,2015,Number,45000
+State,Alabama,2010,Number,82000
+State,Alabama,2020,Percent,0.06
+State,Alabama,2010,Percent,0.11
+State,Alabama,2009,Percent,0.12
+State,Alabama,2009,Number,80000
+State,Alabama,2018,Number,27000
+State,Alabama,2018,Percent,0.04
+State,Alabama,2013,Percent,0.07
+State,Alabama,2008,Number,36000
+State,Alabama,2013,Number,49000
+State,Alabama,2008,Percent,0.05
+State,Alabama,2007,Percent,0.03
+State,Alabama,2007,Number,26000
+State,Alaska,2007,Number,6000
+State,Alaska,2007,Percent,0.05
+State,Alaska,2008,Percent,0.05
+State,Alaska,2008,Number,6000
+State,Alaska,2013,Number,6000
+State,Alaska,2013,Percent,0.05
+State,Alaska,2018,Percent,0.04
+State,Alaska,2018,Number,5000
+State,Alaska,2009,Number,7000
+State,Alaska,2009,Percent,0.07
+State,Alaska,2010,Percent,0.06
+State,Alaska,2010,Number,7000
+State,Alaska,2015,Number,7000
+State,Alaska,2020,Percent,0.06
+State,Alaska,2015,Percent,0.06
+State,Alaska,2020,Number,7000
+State,Alaska,2011,Number,6000
+State,Alaska,2011,Percent,0.05
+State,Alaska,2012,Percent,0.05
+State,Alaska,2012,Number,6000
+State,Alaska,2014,Number,8000
+State,Alaska,2014,Percent,0.06
+State,Alaska,2016,Percent,0.06
+State,Alaska,2017,Number,9000
+State,Alaska,2016,Number,7000
+State,Alaska,2017,Percent,0.08
+State,Alaska,2019,Percent,0.05
+State,Alaska,2021,Number,7000
+State,Alaska,2019,Number,5000
+State,Alaska,2021,Percent,0.07
+State,Arizona,2021,Percent,0.04
+State,Arizona,2021,Number,43000
+State,Arizona,2019,Number,41000
+State,Arizona,2017,Percent,0.04
+State,Arizona,2019,Percent,0.04
+State,Arizona,2016,Number,40000
+State,Arizona,2017,Number,42000
+State,Arizona,2016,Percent,0.04
+State,Arizona,2014,Percent,0.06
+State,Arizona,2012,Number,67000
+State,Arizona,2014,Number,62000
+State,Arizona,2012,Percent,0.07
+State,Arizona,2011,Percent,0.08
+State,Arizona,2020,Number,76000
+State,Arizona,2011,Number,78000
+State,Arizona,2015,Number,56000
+State,Arizona,2010,Number,93000
+State,Arizona,2020,Percent,0.07
+State,Arizona,2015,Percent,0.05
+State,Arizona,2009,Percent,0.1
+State,Arizona,2010,Percent,0.09
+State,Arizona,2018,Number,41000
+State,Arizona,2009,Number,104000
+State,Arizona,2018,Percent,0.04
+State,Arizona,2013,Percent,0.05
+State,Arizona,2008,Number,51000
+State,Arizona,2013,Number,51000
+State,Arizona,2008,Percent,0.05
+State,Arizona,2007,Percent,0.03
+State,Arizona,2007,Number,36000
+State,Arkansas,2007,Number,25000
+State,Arkansas,2007,Percent,0.05
+State,Arkansas,2008,Percent,0.04
+State,Arkansas,2013,Number,26000
+State,Arkansas,2008,Number,21000
+State,Arkansas,2013,Percent,0.06
+State,Arkansas,2018,Percent,0.03
+State,Arkansas,2018,Number,12000
+State,Arkansas,2009,Number,35000
+State,Arkansas,2009,Percent,0.07
+State,Arkansas,2010,Percent,0.08
+State,Arkansas,2015,Percent,0.04
+State,Arkansas,2020,Percent,0.05
+State,Arkansas,2010,Number,37000
+State,Arkansas,2015,Number,22000
+State,Arkansas,2011,Number,36000
+State,Arkansas,2020,Number,22000
+State,Arkansas,2011,Percent,0.07
+State,Arkansas,2012,Percent,0.07
+State,Arkansas,2014,Number,28000
+State,Arkansas,2012,Number,32000
+State,Arkansas,2014,Percent,0.06
+State,Arkansas,2017,Number,15000
+State,Arkansas,2016,Number,16000
+State,Arkansas,2016,Percent,0.03
+State,Arkansas,2019,Percent,0.03
+State,Arkansas,2017,Percent,0.03
+State,Arkansas,2019,Number,13000
+State,Arkansas,2021,Number,16000
+State,Arkansas,2021,Percent,0.04
+State,California,2021,Percent,0.06
+State,California,2021,Number,340000
+State,California,2019,Number,208000
+State,California,2017,Percent,0.04
+State,California,2019,Percent,0.03
+State,California,2016,Number,290000
+State,California,2017,Number,238000
+State,California,2014,Percent,0.06
+State,California,2016,Percent,0.05
+State,California,2012,Number,596000
+State,California,2014,Number,407000
+State,California,2012,Percent,0.09
+State,California,2011,Percent,0.1
+State,California,2020,Number,486000
+State,California,2011,Number,686000
+State,California,2015,Percent,0.05
+State,California,2015,Number,326000
+State,California,2010,Number,717000
+State,California,2020,Percent,0.08
+State,California,2010,Percent,0.11
+State,California,2009,Percent,0.1
+State,California,2018,Number,214000
+State,California,2009,Number,689000
+State,California,2013,Percent,0.08
+State,California,2018,Percent,0.03
+State,California,2008,Number,412000
+State,California,2013,Number,486000
+State,California,2008,Percent,0.06
+State,California,2007,Percent,0.04
+State,California,2007,Number,314000
+State,Colorado,2007,Number,28000
+State,Colorado,2007,Percent,0.03
+State,Colorado,2008,Percent,0.03
+State,Colorado,2013,Number,41000
+State,Colorado,2008,Number,32000
+State,Colorado,2013,Percent,0.05
+State,Colorado,2018,Percent,0.02
+State,Colorado,2009,Number,59000
+State,Colorado,2018,Number,20000
+State,Colorado,2009,Percent,0.06
+State,Colorado,2010,Percent,0.08
+State,Colorado,2020,Percent,0.06
+State,Colorado,2015,Percent,0.03
+State,Colorado,2010,Number,76000
+State,Colorado,2015,Number,24000
+State,Colorado,2011,Number,61000
+State,Colorado,2020,Number,54000
+State,Colorado,2012,Percent,0.06
+State,Colorado,2011,Percent,0.07
+State,Colorado,2014,Number,31000
+State,Colorado,2012,Number,57000
+State,Colorado,2014,Percent,0.03
+State,Colorado,2017,Number,22000
+State,Colorado,2016,Number,29000
+State,Colorado,2016,Percent,0.03
+State,Colorado,2019,Percent,0.02
+State,Colorado,2017,Percent,0.02
+State,Colorado,2019,Number,23000
+State,Colorado,2021,Number,47000
+State,Colorado,2021,Percent,0.05
+State,Connecticut,2021,Percent,0.05
+State,Connecticut,2021,Number,29000
+State,Connecticut,2019,Number,14000
+State,Connecticut,2017,Percent,0.03
+State,Connecticut,2019,Percent,0.02
+State,Connecticut,2016,Number,29000
+State,Connecticut,2017,Number,20000
+State,Connecticut,2014,Percent,0.06
+State,Connecticut,2016,Percent,0.05
+State,Connecticut,2012,Number,48000
+State,Connecticut,2014,Number,34000
+State,Connecticut,2011,Percent,0.07
+State,Connecticut,2012,Percent,0.07
+State,Connecticut,2020,Number,33000
+State,Connecticut,2011,Number,47000
+State,Connecticut,2015,Number,37000
+State,Connecticut,2010,Number,48000
+State,Connecticut,2015,Percent,0.06
+State,Connecticut,2020,Percent,0.06
+State,Connecticut,2010,Percent,0.07
+State,Connecticut,2009,Percent,0.06
+State,Connecticut,2018,Number,21000
+State,Connecticut,2009,Number,42000
+State,Connecticut,2018,Percent,0.04
+State,Connecticut,2013,Percent,0.06
+State,Connecticut,2008,Number,33000
+State,Connecticut,2013,Number,37000
+State,Connecticut,2008,Percent,0.05
+State,Connecticut,2007,Percent,0.03
+State,Connecticut,2007,Number,24000
+State,Delaware,2007,Number,4000
+State,Delaware,2007,Percent,0.03
+State,Delaware,2008,Percent,0.04
+State,Delaware,2013,Number,9000
+State,Delaware,2008,Number,6000
+State,Delaware,2013,Percent,0.06
+State,Delaware,2018,Percent,0.03
+State,Delaware,2009,Number,12000
+State,Delaware,2018,Number,4000
+State,Delaware,2009,Percent,0.07
+State,Delaware,2010,Percent,0.07
+State,Delaware,2020,Percent,0.06
+State,Delaware,2015,Percent,0.04
+State,Delaware,2010,Number,12000
+State,Delaware,2015,Number,6000
+State,Delaware,2011,Number,10000
+State,Delaware,2020,Number,8000
+State,Delaware,2011,Percent,0.06
+State,Delaware,2012,Percent,0.06
+State,Delaware,2014,Number,7000
+State,Delaware,2012,Number,9000
+State,Delaware,2016,Percent,0.03
+State,Delaware,2014,Percent,0.04
+State,Delaware,2016,Number,4000
+State,Delaware,2019,Percent,0.04
+State,Delaware,2017,Percent,0.04
+State,Delaware,2017,Number,5000
+State,Delaware,2019,Number,6000
+State,Delaware,2021,Number,7000
+State,Delaware,2021,Percent,0.05
+City,District of Columbia,2021,Percent,0.06
+City,District of Columbia,2021,Number,5000
+City,District of Columbia,2019,Number,4000
+City,District of Columbia,2017,Percent,0.07
+City,District of Columbia,2019,Percent,0.05
+City,District of Columbia,2016,Number,5000
+City,District of Columbia,2017,Number,6000
+City,District of Columbia,2016,Percent,0.06
+City,District of Columbia,2014,Percent,0.1
+City,District of Columbia,2012,Number,9000
+City,District of Columbia,2014,Number,8000
+City,District of Columbia,2011,Percent,0.12
+City,District of Columbia,2012,Percent,0.12
+City,District of Columbia,2020,Number,6000
+City,District of Columbia,2011,Number,8000
+City,District of Columbia,2015,Number,6000
+City,District of Columbia,2010,Number,8000
+City,District of Columbia,2015,Percent,0.07
+City,District of Columbia,2020,Percent,0.07
+City,District of Columbia,2010,Percent,0.11
+City,District of Columbia,2009,Percent,0.12
+City,District of Columbia,2009,Number,8000
+City,District of Columbia,2018,Number,6000
+City,District of Columbia,2018,Percent,0.07
+City,District of Columbia,2008,Number,5000
+City,District of Columbia,2013,Number,8000
+City,District of Columbia,2013,Percent,0.1
+City,District of Columbia,2008,Percent,0.09
+City,District of Columbia,2007,Percent,0.08
+City,District of Columbia,2007,Number,5000
+State,Florida,2007,Number,108000
+State,Florida,2007,Percent,0.04
+State,Florida,2008,Percent,0.05
+State,Florida,2013,Percent,0.06
+State,Florida,2013,Number,175000
+State,Florida,2008,Number,158000
+State,Florida,2018,Percent,0.03
+State,Florida,2018,Number,87000
+State,Florida,2009,Number,262000
+State,Florida,2009,Percent,0.09
+State,Florida,2010,Percent,0.09
+State,Florida,2020,Percent,0.07
+State,Florida,2015,Percent,0.04
+State,Florida,2010,Number,274000
+State,Florida,2015,Number,133000
+State,Florida,2011,Number,259000
+State,Florida,2020,Number,196000
+State,Florida,2012,Percent,0.08
+State,Florida,2011,Percent,0.09
+State,Florida,2014,Number,165000
+State,Florida,2012,Number,234000
+State,Florida,2014,Percent,0.05
+State,Florida,2016,Percent,0.04
+State,Florida,2017,Number,109000
+State,Florida,2016,Number,119000
+State,Florida,2019,Percent,0.03
+State,Florida,2017,Percent,0.04
+State,Florida,2019,Number,77000
+State,Florida,2021,Number,129000
+State,Florida,2021,Percent,0.04
+State,Georgia,2021,Percent,0.03
+State,Georgia,2021,Number,54000
+State,Georgia,2019,Number,46000
+State,Georgia,2017,Percent,0.04
+State,Georgia,2019,Percent,0.03
+State,Georgia,2016,Number,78000
+State,Georgia,2017,Number,58000
+State,Georgia,2016,Percent,0.05
+State,Georgia,2014,Percent,0.06
+State,Georgia,2012,Number,137000
+State,Georgia,2014,Number,98000
+State,Georgia,2011,Percent,0.08
+State,Georgia,2012,Percent,0.08
+State,Georgia,2020,Number,85000
+State,Georgia,2011,Number,149000
+State,Georgia,2015,Number,90000
+State,Georgia,2010,Number,168000
+State,Georgia,2015,Percent,0.05
+State,Georgia,2020,Percent,0.05
+State,Georgia,2010,Percent,0.09
+State,Georgia,2009,Percent,0.09
+State,Georgia,2009,Number,155000
+State,Georgia,2018,Number,59000
+State,Georgia,2018,Percent,0.04
+State,Georgia,2008,Number,109000
+State,Georgia,2013,Number,122000
+State,Georgia,2013,Percent,0.07
+State,Georgia,2008,Percent,0.06
+State,Georgia,2007,Percent,0.04
+State,Georgia,2007,Number,77000
+State,Hawaii,2007,Number,4000
+State,Hawaii,2007,Percent,0.02
+State,Hawaii,2008,Percent,0.03
+State,Hawaii,2013,Percent,0.04
+State,Hawaii,2013,Number,8000
+State,Hawaii,2008,Number,7000
+State,Hawaii,2018,Percent,0.03
+State,Hawaii,2018,Number,5000
+State,Hawaii,2009,Number,14000
+State,Hawaii,2009,Percent,0.07
+State,Hawaii,2010,Percent,0.07
+State,Hawaii,2020,Percent,0.11
+State,Hawaii,2015,Percent,0.03
+State,Hawaii,2010,Number,15000
+State,Hawaii,2015,Number,6000
+State,Hawaii,2011,Number,14000
+State,Hawaii,2020,Number,21000
+State,Hawaii,2012,Percent,0.05
+State,Hawaii,2011,Percent,0.07
+State,Hawaii,2014,Number,6000
+State,Hawaii,2012,Number,11000
+State,Hawaii,2014,Percent,0.03
+State,Hawaii,2016,Percent,0.03
+State,Hawaii,2017,Number,4000
+State,Hawaii,2016,Number,6000
+State,Hawaii,2019,Percent,0.02
+State,Hawaii,2017,Percent,0.02
+State,Hawaii,2019,Number,5000
+State,Hawaii,2021,Number,11000
+State,Hawaii,2021,Percent,0.06
+State,Idaho,2021,Percent,0.03
+State,Idaho,2021,Number,7000
+State,Idaho,2019,Number,5000
+State,Idaho,2017,Percent,0.02
+State,Idaho,2019,Percent,0.02
+State,Idaho,2016,Number,9000
+State,Idaho,2017,Number,7000
+State,Idaho,2016,Percent,0.03
+State,Idaho,2014,Percent,0.03
+State,Idaho,2014,Number,10000
+State,Idaho,2011,Percent,0.07
+State,Idaho,2012,Percent,0.05
+State,Idaho,2012,Number,17000
+State,Idaho,2020,Number,12000
+State,Idaho,2011,Number,22000
+State,Idaho,2020,Percent,0.04
+State,Idaho,2015,Number,8000
+State,Idaho,2010,Number,24000
+State,Idaho,2015,Percent,0.03
+State,Idaho,2010,Percent,0.08
+State,Idaho,2009,Percent,0.09
+State,Idaho,2009,Number,26000
+State,Idaho,2018,Number,6000
+State,Idaho,2018,Percent,0.02
+State,Idaho,2008,Number,14000
+State,Idaho,2013,Number,16000
+State,Idaho,2013,Percent,0.05
+State,Idaho,2008,Percent,0.05
+State,Idaho,2007,Percent,0.02
+State,Idaho,2007,Number,6000
+State,Illinois,2007,Number,98000
+State,Illinois,2007,Percent,0.04
+State,Illinois,2008,Percent,0.05
+State,Illinois,2013,Percent,0.08
+State,Illinois,2013,Number,174000
+State,Illinois,2008,Number,128000
+State,Illinois,2018,Percent,0.03
+State,Illinois,2018,Number,63000
+State,Illinois,2009,Number,212000
+State,Illinois,2009,Percent,0.09
+State,Illinois,2010,Percent,0.1
+State,Illinois,2015,Percent,0.04
+State,Illinois,2020,Percent,0.07
+State,Illinois,2010,Number,226000
+State,Illinois,2015,Number,95000
+State,Illinois,2020,Number,146000
+State,Illinois,2011,Number,201000
+State,Illinois,2012,Number,169000
+State,Illinois,2012,Percent,0.08
+State,Illinois,2011,Percent,0.09
+State,Illinois,2014,Number,120000
+State,Illinois,2014,Percent,0.05
+State,Illinois,2016,Percent,0.05
+State,Illinois,2016,Number,100000
+State,Illinois,2017,Number,84000
+State,Illinois,2019,Percent,0.03
+State,Illinois,2017,Percent,0.04
+State,Illinois,2019,Number,73000
+State,Illinois,2021,Number,92000
+State,Illinois,2021,Percent,0.04
+State,Indiana,2021,Percent,0.03
+State,Indiana,2021,Number,30000
+State,Indiana,2019,Number,28000
+State,Indiana,2017,Percent,0.03
+State,Indiana,2019,Percent,0.02
+State,Indiana,2016,Number,34000
+State,Indiana,2017,Number,32000
+State,Indiana,2016,Percent,0.03
+State,Indiana,2014,Percent,0.05
+State,Indiana,2014,Number,58000
+State,Indiana,2011,Percent,0.09
+State,Indiana,2012,Percent,0.08
+State,Indiana,2012,Number,92000
+State,Indiana,2011,Number,98000
+State,Indiana,2020,Number,58000
+State,Indiana,2020,Percent,0.05
+State,Indiana,2010,Number,111000
+State,Indiana,2015,Percent,0.04
+State,Indiana,2015,Number,39000
+State,Indiana,2010,Percent,0.1
+State,Indiana,2009,Percent,0.09
+State,Indiana,2009,Number,114000
+State,Indiana,2018,Number,30000
+State,Indiana,2018,Percent,0.03
+State,Indiana,2008,Number,60000
+State,Indiana,2013,Number,73000
+State,Indiana,2013,Percent,0.06
+State,Indiana,2007,Percent,0.04
+State,Indiana,2008,Percent,0.05
+State,Indiana,2007,Number,43000
+State,Iowa,2007,Number,17000
+State,Iowa,2008,Percent,0.03
+State,Iowa,2007,Percent,0.03
+State,Iowa,2013,Percent,0.04
+State,Iowa,2013,Number,24000
+State,Iowa,2008,Number,20000
+State,Iowa,2018,Percent,0.03
+State,Iowa,2018,Number,14000
+State,Iowa,2009,Number,32000
+State,Iowa,2009,Percent,0.05
+State,Iowa,2010,Percent,0.05
+State,Iowa,2015,Percent,0.03
+State,Iowa,2010,Number,29000
+State,Iowa,2015,Number,18000
+State,Iowa,2020,Percent,0.05
+State,Iowa,2020,Number,27000
+State,Iowa,2011,Number,28000
+State,Iowa,2012,Number,23000
+State,Iowa,2012,Percent,0.04
+State,Iowa,2011,Percent,0.05
+State,Iowa,2014,Number,23000
+State,Iowa,2014,Percent,0.04
+State,Iowa,2017,Number,15000
+State,Iowa,2016,Number,19000
+State,Iowa,2016,Percent,0.03
+State,Iowa,2017,Percent,0.03
+State,Iowa,2019,Percent,0.03
+State,Iowa,2019,Number,18000
+State,Iowa,2021,Number,17000
+State,Iowa,2021,Percent,0.03
+State,Kansas,2021,Percent,0.03
+State,Kansas,2019,Number,9000
+State,Kansas,2021,Number,13000
+State,Kansas,2019,Percent,0.02
+State,Kansas,2017,Percent,0.03
+State,Kansas,2016,Number,15000
+State,Kansas,2017,Number,15000
+State,Kansas,2014,Percent,0.04
+State,Kansas,2016,Percent,0.03
+State,Kansas,2014,Number,19000
+State,Kansas,2011,Percent,0.06
+State,Kansas,2012,Percent,0.04
+State,Kansas,2012,Number,22000
+State,Kansas,2020,Number,21000
+State,Kansas,2011,Number,31000
+State,Kansas,2020,Percent,0.04
+State,Kansas,2015,Number,16000
+State,Kansas,2010,Number,33000
+State,Kansas,2015,Percent,0.03
+State,Kansas,2010,Percent,0.07
+State,Kansas,2009,Percent,0.06
+State,Kansas,2009,Number,32000
+State,Kansas,2018,Number,13000
+State,Kansas,2018,Percent,0.03
+State,Kansas,2008,Number,24000
+State,Kansas,2013,Number,21000
+State,Kansas,2013,Percent,0.04
+State,Kansas,2007,Percent,0.03
+State,Kansas,2008,Percent,0.04
+State,Kansas,2007,Number,17000
+State,Kentucky,2007,Number,32000
+State,Kentucky,2007,Percent,0.04
+State,Kentucky,2008,Percent,0.06
+State,Kentucky,2013,Percent,0.07
+State,Kentucky,2013,Number,47000
+State,Kentucky,2008,Number,43000
+State,Kentucky,2018,Percent,0.04
+State,Kentucky,2018,Number,25000
+State,Kentucky,2009,Number,69000
+State,Kentucky,2009,Percent,0.1
+State,Kentucky,2010,Percent,0.1
+State,Kentucky,2015,Percent,0.04
+State,Kentucky,2010,Number,71000
+State,Kentucky,2015,Number,26000
+State,Kentucky,2020,Percent,0.06
+State,Kentucky,2011,Number,58000
+State,Kentucky,2020,Number,38000
+State,Kentucky,2012,Number,56000
+State,Kentucky,2012,Percent,0.08
+State,Kentucky,2011,Percent,0.08
+State,Kentucky,2014,Number,38000
+State,Kentucky,2014,Percent,0.06
+State,Kentucky,2017,Number,33000
+State,Kentucky,2016,Number,32000
+State,Kentucky,2016,Percent,0.05
+State,Kentucky,2017,Percent,0.05
+State,Kentucky,2019,Percent,0.03
+State,Kentucky,2019,Number,23000
+State,Kentucky,2021,Number,25000
+State,Kentucky,2021,Percent,0.04
+State,Louisiana,2021,Percent,0.04
+State,Louisiana,2021,Number,28000
+State,Louisiana,2019,Percent,0.04
+State,Louisiana,2019,Number,26000
+State,Louisiana,2017,Percent,0.04
+State,Louisiana,2016,Percent,0.06
+State,Louisiana,2016,Number,40000
+State,Louisiana,2017,Number,28000
+State,Louisiana,2014,Percent,0.06
+State,Louisiana,2014,Number,46000
+State,Louisiana,2011,Percent,0.06
+State,Louisiana,2012,Number,44000
+State,Louisiana,2012,Percent,0.06
+State,Louisiana,2020,Number,50000
+State,Louisiana,2011,Number,46000
+State,Louisiana,2020,Percent,0.07
+State,Louisiana,2015,Number,39000
+State,Louisiana,2010,Number,44000
+State,Louisiana,2015,Percent,0.05
+State,Louisiana,2010,Percent,0.06
+State,Louisiana,2009,Percent,0.05
+State,Louisiana,2009,Number,35000
+State,Louisiana,2018,Number,27000
+State,Louisiana,2018,Percent,0.04
+State,Louisiana,2008,Number,29000
+State,Louisiana,2013,Number,42000
+State,Louisiana,2013,Percent,0.06
+State,Louisiana,2008,Percent,0.04
+State,Louisiana,2007,Number,28000
+State,Louisiana,2007,Percent,0.04
+State,Maine,2007,Percent,0.04
+State,Maine,2007,Number,9000
+State,Maine,2008,Percent,0.04
+State,Maine,2013,Percent,0.05
+State,Maine,2008,Number,9000
+State,Maine,2013,Number,11000
+State,Maine,2018,Percent,0.02
+State,Maine,2018,Number,4000
+State,Maine,2009,Number,15000
+State,Maine,2009,Percent,0.07
+State,Maine,2010,Percent,0.07
+State,Maine,2015,Percent,0.03
+State,Maine,2010,Number,14000
+State,Maine,2015,Number,6000
+State,Maine,2020,Percent,0.04
+State,Maine,2011,Number,14000
+State,Maine,2020,Number,8000
+State,Maine,2012,Number,13000
+State,Maine,2011,Percent,0.07
+State,Maine,2012,Percent,0.06
+State,Maine,2014,Number,8000
+State,Maine,2014,Percent,0.04
+State,Maine,2017,Number,4000
+State,Maine,2016,Percent,0.04
+State,Maine,2016,Number,8000
+State,Maine,2017,Percent,0.02
+State,Maine,2019,Number,4000
+State,Maine,2019,Percent,0.02
+State,Maine,2021,Number,8000
+State,Maine,2021,Percent,0.04
+State,Maryland,2021,Percent,0.05
+State,Maryland,2021,Number,45000
+State,Maryland,2019,Percent,0.03
+State,Maryland,2019,Number,34000
+State,Maryland,2017,Percent,0.04
+State,Maryland,2016,Number,35000
+State,Maryland,2016,Percent,0.03
+State,Maryland,2017,Number,37000
+State,Maryland,2014,Percent,0.05
+State,Maryland,2014,Number,49000
+State,Maryland,2012,Percent,0.07
+State,Maryland,2011,Percent,0.07
+State,Maryland,2012,Number,68000
+State,Maryland,2020,Number,42000
+State,Maryland,2011,Number,70000
+State,Maryland,2020,Percent,0.04
+State,Maryland,2015,Number,43000
+State,Maryland,2010,Number,61000
+State,Maryland,2015,Percent,0.04
+State,Maryland,2010,Percent,0.06
+State,Maryland,2009,Percent,0.06
+State,Maryland,2009,Number,57000
+State,Maryland,2018,Number,36000
+State,Maryland,2018,Percent,0.04
+State,Maryland,2008,Number,35000
+State,Maryland,2013,Percent,0.05
+State,Maryland,2013,Number,58000
+State,Maryland,2008,Percent,0.04
+State,Maryland,2007,Number,28000
+State,Maryland,2007,Percent,0.03
+State,Massachusetts,2007,Percent,0.04
+State,Massachusetts,2007,Number,48000
+State,Massachusetts,2008,Percent,0.05
+State,Massachusetts,2013,Percent,0.05
+State,Massachusetts,2008,Number,56000
+State,Massachusetts,2013,Number,60000
+State,Massachusetts,2018,Percent,0.02
+State,Massachusetts,2018,Number,28000
+State,Massachusetts,2009,Number,75000
+State,Massachusetts,2009,Percent,0.06
+State,Massachusetts,2010,Percent,0.07
+State,Massachusetts,2015,Percent,0.05
+State,Massachusetts,2010,Number,81000
+State,Massachusetts,2015,Number,47000
+State,Massachusetts,2020,Percent,0.08
+State,Massachusetts,2011,Number,68000
+State,Massachusetts,2020,Number,86000
+State,Massachusetts,2012,Number,65000
+State,Massachusetts,2012,Percent,0.06
+State,Massachusetts,2011,Percent,0.06
+State,Massachusetts,2014,Number,52000
+State,Massachusetts,2014,Percent,0.05
+State,Massachusetts,2017,Number,34000
+State,Massachusetts,2016,Percent,0.03
+State,Massachusetts,2016,Number,32000
+State,Massachusetts,2017,Percent,0.03
+State,Massachusetts,2019,Number,25000
+State,Massachusetts,2019,Percent,0.02
+State,Massachusetts,2021,Number,48000
+State,Massachusetts,2021,Percent,0.04
+State,Michigan,2021,Percent,0.05
+State,Michigan,2021,Number,69000
+State,Michigan,2019,Percent,0.03
+State,Michigan,2019,Number,48000
+State,Michigan,2017,Percent,0.04
+State,Michigan,2016,Number,58000
+State,Michigan,2016,Percent,0.04
+State,Michigan,2017,Number,66000
+State,Michigan,2014,Percent,0.05
+State,Michigan,2014,Number,84000
+State,Michigan,2011,Percent,0.09
+State,Michigan,2012,Percent,0.07
+State,Michigan,2012,Number,117000
+State,Michigan,2020,Number,122000
+State,Michigan,2011,Number,153000
+State,Michigan,2020,Percent,0.08
+State,Michigan,2015,Number,62000
+State,Michigan,2010,Number,165000
+State,Michigan,2015,Percent,0.04
+State,Michigan,2010,Percent,0.1
+State,Michigan,2009,Percent,0.11
+State,Michigan,2009,Number,198000
+State,Michigan,2018,Number,56000
+State,Michigan,2018,Percent,0.03
+State,Michigan,2013,Number,107000
+State,Michigan,2008,Number,118000
+State,Michigan,2013,Percent,0.07
+State,Michigan,2008,Percent,0.07
+State,Michigan,2007,Number,101000
+State,Michigan,2007,Percent,0.05
+State,Minnesota,2007,Percent,0.04
+State,Minnesota,2007,Number,37000
+State,Minnesota,2008,Percent,0.05
+State,Minnesota,2013,Percent,0.04
+State,Minnesota,2008,Number,46000
+State,Minnesota,2013,Number,39000
+State,Minnesota,2018,Percent,0.02
+State,Minnesota,2018,Number,21000
+State,Minnesota,2009,Number,65000
+State,Minnesota,2009,Percent,0.07
+State,Minnesota,2010,Percent,0.07
+State,Minnesota,2015,Percent,0.03
+State,Minnesota,2010,Number,65000
+State,Minnesota,2015,Number,30000
+State,Minnesota,2020,Percent,0.04
+State,Minnesota,2011,Number,59000
+State,Minnesota,2020,Number,43000
+State,Minnesota,2012,Number,44000
+State,Minnesota,2012,Percent,0.05
+State,Minnesota,2011,Percent,0.06
+State,Minnesota,2014,Number,25000
+State,Minnesota,2014,Percent,0.03
+State,Minnesota,2017,Number,29000
+State,Minnesota,2016,Percent,0.03
+State,Minnesota,2016,Number,32000
+State,Minnesota,2017,Percent,0.03
+State,Minnesota,2019,Number,25000
+State,Minnesota,2019,Percent,0.02
+State,Minnesota,2021,Number,28000
+State,Minnesota,2021,Percent,0.03
+State,Mississippi,2021,Percent,0.04
+State,Mississippi,2021,Number,18000
+State,Mississippi,2019,Percent,0.04
+State,Mississippi,2019,Number,19000
+State,Mississippi,2017,Percent,0.04
+State,Mississippi,2016,Number,21000
+State,Mississippi,2016,Percent,0.05
+State,Mississippi,2017,Number,18000
+State,Mississippi,2014,Percent,0.07
+State,Mississippi,2014,Number,30000
+State,Mississippi,2011,Percent,0.1
+State,Mississippi,2012,Percent,0.09
+State,Mississippi,2012,Number,40000
+State,Mississippi,2011,Number,47000
+State,Mississippi,2020,Percent,0.07
+State,Mississippi,2020,Number,30000
+State,Mississippi,2015,Number,27000
+State,Mississippi,2010,Number,49000
+State,Mississippi,2015,Percent,0.06
+State,Mississippi,2010,Percent,0.1
+State,Mississippi,2009,Percent,0.08
+State,Mississippi,2009,Number,38000
+State,Mississippi,2018,Number,18000
+State,Mississippi,2018,Percent,0.04
+State,Mississippi,2013,Number,33000
+State,Mississippi,2008,Number,25000
+State,Mississippi,2013,Percent,0.07
+State,Mississippi,2008,Percent,0.05
+State,Mississippi,2007,Number,24000
+State,Mississippi,2007,Percent,0.05
+State,Missouri,2007,Percent,0.04
+State,Missouri,2007,Number,49000
+State,Missouri,2008,Percent,0.06
+State,Missouri,2013,Percent,0.05
+State,Missouri,2008,Number,61000
+State,Missouri,2013,Number,55000
+State,Missouri,2018,Percent,0.03
+State,Missouri,2018,Number,29000
+State,Missouri,2009,Number,85000
+State,Missouri,2009,Percent,0.08
+State,Missouri,2010,Percent,0.08
+State,Missouri,2015,Percent,0.04
+State,Missouri,2010,Number,94000
+State,Missouri,2015,Number,41000
+State,Missouri,2020,Number,45000
+State,Missouri,2020,Percent,0.05
+State,Missouri,2011,Number,78000
+State,Missouri,2012,Number,51000
+State,Missouri,2012,Percent,0.05
+State,Missouri,2011,Percent,0.07
+State,Missouri,2014,Number,49000
+State,Missouri,2014,Percent,0.05
+State,Missouri,2017,Number,35000
+State,Missouri,2016,Percent,0.04
+State,Missouri,2016,Number,38000
+State,Missouri,2017,Percent,0.03
+State,Missouri,2019,Number,27000
+State,Missouri,2019,Percent,0.03
+State,Missouri,2021,Number,29000
+State,Missouri,2021,Percent,0.03
+State,Montana,2021,Percent,0.02
+State,Montana,2021,Number,4000
+State,Montana,2019,Percent,0.03
+State,Montana,2019,Number,5000
+State,Montana,2017,Percent,0.04
+State,Montana,2016,Number,6000
+State,Montana,2016,Percent,0.03
+State,Montana,2017,Number,6000
+State,Montana,2014,Percent,0.04
+State,Montana,2014,Number,6000
+State,Montana,2011,Percent,0.06
+State,Montana,2012,Percent,0.06
+State,Montana,2012,Number,9000
+State,Montana,2011,Number,9000
+State,Montana,2020,Number,8000
+State,Montana,2020,Percent,0.05
+State,Montana,2015,Number,5000
+State,Montana,2010,Number,9000
+State,Montana,2015,Percent,0.03
+State,Montana,2010,Percent,0.06
+State,Montana,2009,Percent,0.06
+State,Montana,2009,Number,9000
+State,Montana,2018,Number,4000
+State,Montana,2018,Percent,0.03
+State,Montana,2013,Number,6000
+State,Montana,2008,Number,6000
+State,Montana,2013,Percent,0.04
+State,Montana,2008,Percent,0.04
+State,Montana,2007,Number,5000
+State,Montana,2007,Percent,0.03
+State,Nebraska,2007,Percent,0.02
+State,Nebraska,2007,Number,8000
+State,Nebraska,2008,Percent,0.02
+State,Nebraska,2013,Percent,0.04
+State,Nebraska,2008,Number,8000
+State,Nebraska,2013,Number,14000
+State,Nebraska,2018,Percent,0.02
+State,Nebraska,2018,Number,7000
+State,Nebraska,2009,Number,12000
+State,Nebraska,2009,Percent,0.03
+State,Nebraska,2010,Percent,0.04
+State,Nebraska,2015,Percent,0.02
+State,Nebraska,2010,Number,15000
+State,Nebraska,2015,Number,8000
+State,Nebraska,2020,Percent,0.03
+State,Nebraska,2020,Number,9000
+State,Nebraska,2011,Number,14000
+State,Nebraska,2012,Number,13000
+State,Nebraska,2012,Percent,0.04
+State,Nebraska,2011,Percent,0.04
+State,Nebraska,2014,Number,8000
+State,Nebraska,2014,Percent,0.02
+State,Nebraska,2017,Number,7000
+State,Nebraska,2016,Percent,0.02
+State,Nebraska,2016,Number,8000
+State,Nebraska,2017,Percent,0.02
+State,Nebraska,2019,Number,7000
+State,Nebraska,2019,Percent,0.02
+State,Nebraska,2021,Number,6000
+State,Nebraska,2021,Percent,0.02
+State,Nevada,2021,Percent,0.08
+State,Nevada,2021,Number,35000
+State,Nevada,2019,Percent,0.03
+State,Nevada,2019,Number,13000
+State,Nevada,2017,Percent,0.03
+State,Nevada,2016,Number,19000
+State,Nevada,2016,Percent,0.04
+State,Nevada,2017,Number,13000
+State,Nevada,2014,Percent,0.06
+State,Nevada,2014,Number,28000
+State,Nevada,2011,Percent,0.12
+State,Nevada,2012,Percent,0.1
+State,Nevada,2012,Number,43000
+State,Nevada,2011,Number,49000
+State,Nevada,2020,Number,57000
+State,Nevada,2020,Percent,0.12
+State,Nevada,2015,Number,23000
+State,Nevada,2010,Number,57000
+State,Nevada,2015,Percent,0.05
+State,Nevada,2010,Percent,0.13
+State,Nevada,2009,Percent,0.11
+State,Nevada,2009,Number,49000
+State,Nevada,2018,Number,17000
+State,Nevada,2018,Percent,0.04
+State,Nevada,2013,Number,34000
+State,Nevada,2008,Number,29000
+State,Nevada,2013,Percent,0.07
+State,Nevada,2008,Percent,0.06
+State,Nevada,2007,Number,18000
+State,Nevada,2007,Percent,0.04
+State,New Hampshire,2007,Percent,0.03
+State,New Hampshire,2007,Number,7000
+State,New Hampshire,2008,Percent,0.03
+State,New Hampshire,2013,Percent,0.04
+State,New Hampshire,2008,Number,7000
+State,New Hampshire,2013,Number,10000
+State,New Hampshire,2018,Percent,0.02
+State,New Hampshire,2018,Number,5000
+State,New Hampshire,2009,Percent,0.06
+State,New Hampshire,2009,Number,14000
+State,New Hampshire,2010,Percent,0.05
+State,New Hampshire,2015,Percent,0.02
+State,New Hampshire,2010,Number,12000
+State,New Hampshire,2015,Number,5000
+State,New Hampshire,2020,Percent,0.05
+State,New Hampshire,2020,Number,10000
+State,New Hampshire,2011,Number,9000
+State,New Hampshire,2012,Number,8000
+State,New Hampshire,2012,Percent,0.03
+State,New Hampshire,2011,Percent,0.04
+State,New Hampshire,2014,Number,7000
+State,New Hampshire,2014,Percent,0.03
+State,New Hampshire,2017,Number,4000
+State,New Hampshire,2016,Percent,0.02
+State,New Hampshire,2016,Number,4000
+State,New Hampshire,2017,Percent,0.02
+State,New Hampshire,2019,Number,3000
+State,New Hampshire,2019,Percent,0.01
+State,New Hampshire,2021,Number,5000
+State,New Hampshire,2021,Percent,0.03
+State,New Jersey,2021,Percent,0.06
+State,New Jersey,2021,Number,82000
+State,New Jersey,2019,Percent,0.02
+State,New Jersey,2019,Number,31000
+State,New Jersey,2017,Percent,0.03
+State,New Jersey,2016,Number,62000
+State,New Jersey,2016,Percent,0.04
+State,New Jersey,2017,Number,44000
+State,New Jersey,2014,Percent,0.05
+State,New Jersey,2014,Number,69000
+State,New Jersey,2011,Percent,0.08
+State,New Jersey,2012,Percent,0.07
+State,New Jersey,2012,Number,113000
+State,New Jersey,2011,Number,117000
+State,New Jersey,2020,Number,82000
+State,New Jersey,2020,Percent,0.06
+State,New Jersey,2010,Number,121000
+State,New Jersey,2015,Percent,0.05
+State,New Jersey,2015,Number,78000
+State,New Jersey,2010,Percent,0.08
+State,New Jersey,2009,Percent,0.07
+State,New Jersey,2018,Number,48000
+State,New Jersey,2009,Number,121000
+State,New Jersey,2018,Percent,0.03
+State,New Jersey,2013,Number,100000
+State,New Jersey,2008,Number,65000
+State,New Jersey,2013,Percent,0.07
+State,New Jersey,2008,Percent,0.04
+State,New Jersey,2007,Number,57000
+State,New Jersey,2007,Percent,0.03
+State,New Mexico,2007,Percent,0.03
+State,New Mexico,2007,Number,12000
+State,New Mexico,2008,Percent,0.04
+State,New Mexico,2013,Percent,0.07
+State,New Mexico,2008,Number,15000
+State,New Mexico,2013,Number,21000
+State,New Mexico,2018,Percent,0.04
+State,New Mexico,2018,Number,11000
+State,New Mexico,2009,Percent,0.07
+State,New Mexico,2009,Number,24000
+State,New Mexico,2010,Percent,0.09
+State,New Mexico,2015,Percent,0.07
+State,New Mexico,2010,Number,29000
+State,New Mexico,2015,Number,21000
+State,New Mexico,2020,Percent,0.06
+State,New Mexico,2020,Number,16000
+State,New Mexico,2011,Number,25000
+State,New Mexico,2012,Number,19000
+State,New Mexico,2012,Percent,0.06
+State,New Mexico,2011,Percent,0.08
+State,New Mexico,2014,Number,17000
+State,New Mexico,2014,Percent,0.05
+State,New Mexico,2017,Number,14000
+State,New Mexico,2016,Percent,0.06
+State,New Mexico,2016,Number,18000
+State,New Mexico,2017,Percent,0.05
+State,New Mexico,2019,Number,10000
+State,New Mexico,2019,Percent,0.03
+State,New Mexico,2021,Number,18000
+State,New Mexico,2021,Percent,0.07
+State,New York,2021,Percent,0.06
+State,New York,2021,Number,169000
+State,New York,2019,Number,87000
+State,New York,2019,Percent,0.03
+State,New York,2017,Percent,0.04
+State,New York,2016,Number,108000
+State,New York,2016,Percent,0.04
+State,New York,2017,Number,101000
+State,New York,2014,Percent,0.05
+State,New York,2014,Number,153000
+State,New York,2011,Percent,0.07
+State,New York,2012,Percent,0.07
+State,New York,2012,Number,224000
+State,New York,2011,Number,218000
+State,New York,2020,Number,253000
+State,New York,2020,Percent,0.09
+State,New York,2010,Number,228000
+State,New York,2015,Percent,0.04
+State,New York,2015,Number,110000
+State,New York,2010,Percent,0.07
+State,New York,2009,Number,212000
+State,New York,2009,Percent,0.07
+State,New York,2018,Number,97000
+State,New York,2018,Percent,0.03
+State,New York,2013,Number,190000
+State,New York,2008,Number,149000
+State,New York,2013,Percent,0.06
+State,New York,2008,Percent,0.05
+State,New York,2007,Number,121000
+State,New York,2007,Percent,0.04
+State,North Carolina,2007,Percent,0.04
+State,North Carolina,2007,Number,58000
+State,North Carolina,2008,Percent,0.05
+State,North Carolina,2013,Percent,0.07
+State,North Carolina,2008,Number,78000
+State,North Carolina,2013,Number,104000
+State,North Carolina,2018,Percent,0.03
+State,North Carolina,2018,Number,46000
+State,North Carolina,2009,Percent,0.09
+State,North Carolina,2009,Number,141000
+State,North Carolina,2010,Percent,0.09
+State,North Carolina,2010,Number,147000
+State,North Carolina,2015,Number,88000
+State,North Carolina,2015,Percent,0.05
+State,North Carolina,2020,Percent,0.06
+State,North Carolina,2020,Number,91000
+State,North Carolina,2011,Number,149000
+State,North Carolina,2012,Number,131000
+State,North Carolina,2012,Percent,0.08
+State,North Carolina,2011,Percent,0.09
+State,North Carolina,2014,Number,75000
+State,North Carolina,2014,Percent,0.05
+State,North Carolina,2017,Number,66000
+State,North Carolina,2016,Percent,0.05
+State,North Carolina,2016,Number,78000
+State,North Carolina,2017,Percent,0.04
+State,North Carolina,2019,Percent,0.03
+State,North Carolina,2019,Number,57000
+State,North Carolina,2021,Number,53000
+State,North Carolina,2021,Percent,0.03
+State,North Dakota,2021,Percent,0.03
+State,North Dakota,2021,Number,4000
+State,North Dakota,2019,Number,2000
+State,North Dakota,2019,Percent,0.02
+State,North Dakota,2017,Percent,0.02
+State,North Dakota,2016,Number,3000
+State,North Dakota,2016,Percent,0.02
+State,North Dakota,2017,Number,3000
+State,North Dakota,2014,Percent,0.02
+State,North Dakota,2014,Number,3000
+State,North Dakota,2011,Percent,0.03
+State,North Dakota,2012,Percent,0.03
+State,North Dakota,2012,Number,3000
+State,North Dakota,2011,Number,4000
+State,North Dakota,2020,Number,5000
+State,North Dakota,2020,Percent,0.04
+State,North Dakota,2015,Percent,0.02
+State,North Dakota,2015,Number,3000
+State,North Dakota,2010,Number,4000
+State,North Dakota,2010,Percent,0.03
+State,North Dakota,2009,Number,4000
+State,North Dakota,2009,Percent,0.04
+State,North Dakota,2018,Number,3000
+State,North Dakota,2018,Percent,0.02
+State,North Dakota,2013,Number,3000
+State,North Dakota,2008,Number,4000
+State,North Dakota,2013,Percent,0.02
+State,North Dakota,2008,Percent,0.03
+State,North Dakota,2007,Number,3000
+State,North Dakota,2007,Percent,0.03
+State,Ohio,2007,Percent,0.05
+State,Ohio,2007,Number,104000
+State,Ohio,2008,Percent,0.06
+State,Ohio,2013,Percent,0.07
+State,Ohio,2008,Number,127000
+State,Ohio,2013,Number,124000
+State,Ohio,2018,Percent,0.04
+State,Ohio,2018,Number,71000
+State,Ohio,2009,Percent,0.1
+State,Ohio,2009,Number,190000
+State,Ohio,2010,Percent,0.09
+State,Ohio,2010,Number,170000
+State,Ohio,2015,Percent,0.04
+State,Ohio,2015,Number,72000
+State,Ohio,2020,Percent,0.07
+State,Ohio,2020,Number,122000
+State,Ohio,2011,Number,158000
+State,Ohio,2012,Number,130000
+State,Ohio,2012,Percent,0.07
+State,Ohio,2011,Percent,0.08
+State,Ohio,2014,Number,74000
+State,Ohio,2014,Percent,0.04
+State,Ohio,2017,Number,83000
+State,Ohio,2016,Percent,0.04
+State,Ohio,2016,Number,80000
+State,Ohio,2017,Percent,0.05
+State,Ohio,2019,Percent,0.03
+State,Ohio,2019,Number,61000
+State,Ohio,2021,Number,85000
+State,Ohio,2021,Percent,0.05
+State,Oklahoma,2021,Percent,0.03
+State,Oklahoma,2021,Number,20000
+State,Oklahoma,2019,Number,17000
+State,Oklahoma,2019,Percent,0.03
+State,Oklahoma,2017,Percent,0.04
+State,Oklahoma,2016,Number,32000
+State,Oklahoma,2016,Percent,0.05
+State,Oklahoma,2017,Number,25000
+State,Oklahoma,2014,Percent,0.04
+State,Oklahoma,2014,Number,27000
+State,Oklahoma,2011,Percent,0.06
+State,Oklahoma,2012,Percent,0.04
+State,Oklahoma,2012,Number,25000
+State,Oklahoma,2011,Number,35000
+State,Oklahoma,2020,Number,37000
+State,Oklahoma,2020,Percent,0.06
+State,Oklahoma,2015,Number,26000
+State,Oklahoma,2015,Percent,0.04
+State,Oklahoma,2010,Number,43000
+State,Oklahoma,2010,Percent,0.07
+State,Oklahoma,2009,Number,37000
+State,Oklahoma,2009,Percent,0.06
+State,Oklahoma,2018,Number,18000
+State,Oklahoma,2018,Percent,0.03
+State,Oklahoma,2013,Number,34000
+State,Oklahoma,2008,Number,19000
+State,Oklahoma,2013,Percent,0.05
+State,Oklahoma,2008,Percent,0.03
+State,Oklahoma,2007,Number,24000
+State,Oklahoma,2007,Percent,0.04
+State,Oregon,2007,Percent,0.04
+State,Oregon,2007,Number,28000
+State,Oregon,2008,Percent,0.06
+State,Oregon,2013,Percent,0.06
+State,Oregon,2008,Number,39000
+State,Oregon,2013,Number,36000
+State,Oregon,2018,Percent,0.03
+State,Oregon,2018,Number,21000
+State,Oregon,2009,Percent,0.1
+State,Oregon,2009,Number,72000
+State,Oregon,2010,Percent,0.1
+State,Oregon,2010,Number,68000
+State,Oregon,2015,Percent,0.04
+State,Oregon,2015,Number,26000
+State,Oregon,2020,Percent,0.06
+State,Oregon,2020,Number,36000
+State,Oregon,2011,Number,55000
+State,Oregon,2012,Number,42000
+State,Oregon,2012,Percent,0.07
+State,Oregon,2011,Percent,0.09
+State,Oregon,2014,Number,34000
+State,Oregon,2014,Percent,0.05
+State,Oregon,2017,Number,24000
+State,Oregon,2016,Percent,0.04
+State,Oregon,2016,Number,24000
+State,Oregon,2017,Percent,0.04
+State,Oregon,2019,Percent,0.03
+State,Oregon,2019,Number,18000
+State,Oregon,2021,Number,26000
+State,Oregon,2021,Percent,0.04
+State,Pennsylvania,2021,Percent,0.06
+State,Pennsylvania,2021,Number,105000
+State,Pennsylvania,2019,Number,65000
+State,Pennsylvania,2019,Percent,0.03
+State,Pennsylvania,2017,Percent,0.04
+State,Pennsylvania,2016,Number,97000
+State,Pennsylvania,2016,Percent,0.05
+State,Pennsylvania,2017,Number,86000
+State,Pennsylvania,2014,Percent,0.05
+State,Pennsylvania,2014,Number,109000
+State,Pennsylvania,2011,Percent,0.06
+State,Pennsylvania,2012,Percent,0.07
+State,Pennsylvania,2012,Number,147000
+State,Pennsylvania,2011,Number,121000
+State,Pennsylvania,2020,Number,151000
+State,Pennsylvania,2020,Percent,0.08
+State,Pennsylvania,2015,Percent,0.05
+State,Pennsylvania,2015,Number,91000
+State,Pennsylvania,2010,Number,157000
+State,Pennsylvania,2010,Percent,0.08
+State,Pennsylvania,2009,Number,147000
+State,Pennsylvania,2009,Percent,0.07
+State,Pennsylvania,2018,Number,77000
+State,Pennsylvania,2018,Percent,0.04
+State,Pennsylvania,2013,Number,116000
+State,Pennsylvania,2008,Number,87000
+State,Pennsylvania,2013,Percent,0.06
+State,Pennsylvania,2008,Percent,0.04
+State,Pennsylvania,2007,Number,66000
+State,Pennsylvania,2007,Percent,0.03
+State,Rhode Island,2007,Percent,0.04
+State,Rhode Island,2007,Number,8000
+State,Rhode Island,2008,Percent,0.07
+State,Rhode Island,2013,Percent,0.09
+State,Rhode Island,2013,Number,16000
+State,Rhode Island,2008,Number,14000
+State,Rhode Island,2018,Percent,0.03
+State,Rhode Island,2018,Number,5000
+State,Rhode Island,2009,Percent,0.1
+State,Rhode Island,2009,Number,19000
+State,Rhode Island,2010,Percent,0.1
+State,Rhode Island,2010,Number,19000
+State,Rhode Island,2015,Number,6000
+State,Rhode Island,2015,Percent,0.04
+State,Rhode Island,2020,Percent,0.08
+State,Rhode Island,2020,Number,14000
+State,Rhode Island,2011,Number,20000
+State,Rhode Island,2012,Number,19000
+State,Rhode Island,2012,Percent,0.11
+State,Rhode Island,2011,Percent,0.11
+State,Rhode Island,2014,Number,10000
+State,Rhode Island,2014,Percent,0.06
+State,Rhode Island,2017,Number,5000
+State,Rhode Island,2016,Percent,0.04
+State,Rhode Island,2016,Number,7000
+State,Rhode Island,2017,Percent,0.03
+State,Rhode Island,2019,Percent,0.02
+State,Rhode Island,2019,Number,3000
+State,Rhode Island,2021,Number,8000
+State,Rhode Island,2021,Percent,0.05
+State,South Carolina,2021,Percent,0.03
+State,South Carolina,2021,Number,21000
+State,South Carolina,2019,Number,16000
+State,South Carolina,2019,Percent,0.02
+State,South Carolina,2017,Percent,0.03
+State,South Carolina,2016,Number,31000
+State,South Carolina,2016,Percent,0.04
+State,South Carolina,2017,Number,25000
+State,South Carolina,2014,Percent,0.05
+State,South Carolina,2014,Number,38000
+State,South Carolina,2011,Percent,0.09
+State,South Carolina,2012,Percent,0.07
+State,South Carolina,2012,Number,49000
+State,South Carolina,2011,Number,61000
+State,South Carolina,2020,Number,28000
+State,South Carolina,2020,Percent,0.04
+State,South Carolina,2015,Percent,0.05
+State,South Carolina,2015,Number,41000
+State,South Carolina,2010,Number,65000
+State,South Carolina,2010,Percent,0.09
+State,South Carolina,2009,Number,75000
+State,South Carolina,2009,Percent,0.1
+State,South Carolina,2018,Percent,0.03
+State,South Carolina,2018,Number,21000
+State,South Carolina,2008,Number,47000
+State,South Carolina,2013,Number,43000
+State,South Carolina,2013,Percent,0.06
+State,South Carolina,2008,Percent,0.06
+State,South Carolina,2007,Number,33000
+State,South Carolina,2007,Percent,0.04
+State,South Dakota,2007,Percent,0.03
+State,South Dakota,2007,Number,4000
+State,South Dakota,2008,Percent,0.03
+State,South Dakota,2013,Number,5000
+State,South Dakota,2013,Percent,0.03
+State,South Dakota,2008,Number,4000
+State,South Dakota,2018,Number,4000
+State,South Dakota,2018,Percent,0.02
+State,South Dakota,2009,Percent,0.05
+State,South Dakota,2009,Number,7000
+State,South Dakota,2010,Percent,0.04
+State,South Dakota,2010,Number,6000
+State,South Dakota,2015,Number,4000
+State,South Dakota,2015,Percent,0.03
+State,South Dakota,2020,Percent,0.04
+State,South Dakota,2020,Number,5000
+State,South Dakota,2011,Number,5000
+State,South Dakota,2012,Number,6000
+State,South Dakota,2012,Percent,0.04
+State,South Dakota,2011,Percent,0.04
+State,South Dakota,2014,Number,5000
+State,South Dakota,2014,Percent,0.03
+State,South Dakota,2017,Number,6000
+State,South Dakota,2016,Number,4000
+State,South Dakota,2016,Percent,0.03
+State,South Dakota,2017,Percent,0.04
+State,South Dakota,2019,Percent,0.03
+State,South Dakota,2019,Number,4000
+State,South Dakota,2021,Number,3000
+State,South Dakota,2021,Percent,0.02
+State,Tennessee,2021,Percent,0.03
+State,Tennessee,2021,Number,29000
+State,Tennessee,2019,Number,29000
+State,Tennessee,2019,Percent,0.03
+State,Tennessee,2017,Percent,0.04
+State,Tennessee,2016,Percent,0.04
+State,Tennessee,2016,Number,42000
+State,Tennessee,2017,Number,38000
+State,Tennessee,2014,Percent,0.06
+State,Tennessee,2014,Number,65000
+State,Tennessee,2011,Percent,0.09
+State,Tennessee,2012,Percent,0.08
+State,Tennessee,2012,Number,81000
+State,Tennessee,2011,Number,90000
+State,Tennessee,2020,Number,60000
+State,Tennessee,2020,Percent,0.06
+State,Tennessee,2015,Percent,0.05
+State,Tennessee,2015,Number,54000
+State,Tennessee,2010,Number,91000
+State,Tennessee,2010,Percent,0.09
+State,Tennessee,2009,Number,101000
+State,Tennessee,2009,Percent,0.1
+State,Tennessee,2018,Percent,0.03
+State,Tennessee,2018,Number,29000
+State,Tennessee,2008,Number,60000
+State,Tennessee,2013,Percent,0.08
+State,Tennessee,2013,Number,84000
+State,Tennessee,2008,Percent,0.06
+State,Tennessee,2007,Number,43000
+State,Tennessee,2007,Percent,0.04
+State,Texas,2007,Percent,0.04
+State,Texas,2007,Number,167000
+State,Texas,2008,Percent,0.04
+State,Texas,2013,Number,251000
+State,Texas,2013,Percent,0.05
+State,Texas,2008,Number,189000
+State,Texas,2018,Number,141000
+State,Texas,2018,Percent,0.03
+State,Texas,2009,Percent,0.06
+State,Texas,2009,Number,294000
+State,Texas,2010,Percent,0.07
+State,Texas,2010,Number,333000
+State,Texas,2015,Number,164000
+State,Texas,2015,Percent,0.03
+State,Texas,2020,Number,310000
+State,Texas,2020,Percent,0.06
+State,Texas,2011,Number,304000
+State,Texas,2012,Number,277000
+State,Texas,2012,Percent,0.06
+State,Texas,2011,Percent,0.07
+State,Texas,2014,Number,203000
+State,Texas,2014,Percent,0.04
+State,Texas,2017,Number,166000
+State,Texas,2016,Number,167000
+State,Texas,2016,Percent,0.04
+State,Texas,2017,Percent,0.03
+State,Texas,2019,Percent,0.02
+State,Texas,2019,Number,111000
+State,Texas,2021,Number,249000
+State,Texas,2021,Percent,0.05
+State,Utah,2021,Percent,0.02
+State,Utah,2021,Number,14000
+State,Utah,2019,Number,11000
+State,Utah,2019,Percent,0.02
+State,Utah,2017,Percent,0.03
+State,Utah,2016,Percent,0.03
+State,Utah,2016,Number,17000
+State,Utah,2017,Number,16000
+State,Utah,2014,Percent,0.02
+State,Utah,2014,Number,14000
+State,Utah,2011,Percent,0.06
+State,Utah,2012,Percent,0.03
+State,Utah,2012,Number,20000
+State,Utah,2011,Number,32000
+State,Utah,2020,Percent,0.03
+State,Utah,2020,Number,21000
+State,Utah,2015,Percent,0.03
+State,Utah,2015,Number,14000
+State,Utah,2010,Percent,0.07
+State,Utah,2010,Number,38000
+State,Utah,2009,Number,31000
+State,Utah,2009,Percent,0.05
+State,Utah,2018,Percent,0.02
+State,Utah,2018,Number,12000
+State,Utah,2008,Number,14000
+State,Utah,2013,Percent,0.03
+State,Utah,2013,Number,16000
+State,Utah,2008,Percent,0.02
+State,Utah,2007,Number,10000
+State,Utah,2007,Percent,0.02
+State,Vermont,2007,Percent,0.03
+State,Vermont,2007,Number,3000
+State,Vermont,2008,Percent,0.04
+State,Vermont,2008,Number,4000
+State,Vermont,2013,Number,4000
+State,Vermont,2013,Percent,0.04
+State,Vermont,2018,Number,2000
+State,Vermont,2018,Percent,0.02
+State,Vermont,2009,Percent,0.05
+State,Vermont,2009,Number,6000
+State,Vermont,2010,Number,5000
+State,Vermont,2010,Percent,0.05
+State,Vermont,2015,Number,2000
+State,Vermont,2015,Percent,0.02
+State,Vermont,2020,Percent,0.05
+State,Vermont,2020,Number,4000
+State,Vermont,2011,Number,6000
+State,Vermont,2012,Number,3000
+State,Vermont,2012,Percent,0.03
+State,Vermont,2011,Percent,0.05
+State,Vermont,2014,Number,4000
+State,Vermont,2014,Percent,0.04
+State,Vermont,2017,Number,3000
+State,Vermont,2016,Number,2000
+State,Vermont,2016,Percent,0.02
+State,Vermont,2017,Percent,0.03
+State,Vermont,2019,Percent,0.01
+State,Vermont,2019,Number,1000
+State,Vermont,2021,Number,3000
+State,Vermont,2021,Percent,0.03
+State,Virginia,2021,Percent,0.03
+State,Virginia,2021,Number,40000
+State,Virginia,2019,Number,35000
+State,Virginia,2019,Percent,0.02
+State,Virginia,2017,Percent,0.03
+State,Virginia,2016,Number,47000
+State,Virginia,2016,Percent,0.03
+State,Virginia,2017,Number,37000
+State,Virginia,2014,Percent,0.04
+State,Virginia,2014,Number,60000
+State,Virginia,2012,Number,58000
+State,Virginia,2012,Percent,0.04
+State,Virginia,2011,Number,71000
+State,Virginia,2011,Percent,0.05
+State,Virginia,2020,Number,70000
+State,Virginia,2020,Percent,0.05
+State,Virginia,2015,Percent,0.04
+State,Virginia,2015,Number,54000
+State,Virginia,2010,Percent,0.07
+State,Virginia,2010,Number,91000
+State,Virginia,2009,Number,80000
+State,Virginia,2009,Percent,0.06
+State,Virginia,2018,Number,37000
+State,Virginia,2018,Percent,0.03
+State,Virginia,2013,Percent,0.04
+State,Virginia,2013,Number,62000
+State,Virginia,2008,Number,44000
+State,Virginia,2008,Percent,0.03
+State,Virginia,2007,Number,29000
+State,Virginia,2007,Percent,0.02
+State,Washington,2007,Percent,0.04
+State,Washington,2007,Number,47000
+State,Washington,2008,Percent,0.03
+State,Washington,2013,Number,60000
+State,Washington,2013,Percent,0.05
+State,Washington,2008,Number,39000
+State,Washington,2018,Number,41000
+State,Washington,2018,Percent,0.03
+State,Washington,2009,Percent,0.07
+State,Washington,2009,Number,79000
+State,Washington,2010,Number,104000
+State,Washington,2010,Percent,0.09
+State,Washington,2015,Number,49000
+State,Washington,2015,Percent,0.04
+State,Washington,2020,Percent,0.06
+State,Washington,2020,Number,83000
+State,Washington,2011,Percent,0.09
+State,Washington,2011,Number,106000
+State,Washington,2012,Percent,0.07
+State,Washington,2012,Number,82000
+State,Washington,2014,Percent,0.05
+State,Washington,2014,Number,56000
+State,Washington,2017,Number,40000
+State,Washington,2016,Number,56000
+State,Washington,2016,Percent,0.05
+State,Washington,2017,Percent,0.03
+State,Washington,2019,Percent,0.03
+State,Washington,2019,Number,41000
+State,Washington,2021,Number,46000
+State,Washington,2021,Percent,0.04
+State,West Virginia,2021,Percent,0.04
+State,West Virginia,2021,Number,9000
+State,West Virginia,2019,Percent,0.04
+State,West Virginia,2019,Number,10000
+State,West Virginia,2017,Percent,0.05
+State,West Virginia,2017,Number,13000
+State,West Virginia,2016,Percent,0.06
+State,West Virginia,2016,Number,15000
+State,West Virginia,2014,Number,14000
+State,West Virginia,2014,Percent,0.05
+State,West Virginia,2012,Number,20000
+State,West Virginia,2012,Percent,0.07
+State,West Virginia,2011,Percent,0.08
+State,West Virginia,2011,Number,22000
+State,West Virginia,2020,Number,18000
+State,West Virginia,2020,Percent,0.08
+State,West Virginia,2015,Percent,0.06
+State,West Virginia,2015,Number,14000
+State,West Virginia,2010,Percent,0.08
+State,West Virginia,2010,Number,23000
+State,West Virginia,2009,Percent,0.08
+State,West Virginia,2009,Number,20000
+State,West Virginia,2018,Percent,0.05
+State,West Virginia,2018,Number,13000
+State,West Virginia,2013,Percent,0.05
+State,West Virginia,2013,Number,14000
+State,West Virginia,2008,Percent,0.05
+State,West Virginia,2008,Number,13000
+State,West Virginia,2007,Number,12000
+State,West Virginia,2007,Percent,0.04
+State,Wisconsin,2007,Percent,0.04
+State,Wisconsin,2007,Number,42000
+State,Wisconsin,2008,Number,41000
+State,Wisconsin,2008,Percent,0.04
+State,Wisconsin,2013,Number,59000
+State,Wisconsin,2013,Percent,0.06
+State,Wisconsin,2018,Number,18000
+State,Wisconsin,2018,Percent,0.02
+State,Wisconsin,2009,Number,73000
+State,Wisconsin,2009,Percent,0.07
+State,Wisconsin,2010,Number,74000
+State,Wisconsin,2010,Percent,0.07
+State,Wisconsin,2015,Percent,0.04
+State,Wisconsin,2015,Number,38000
+State,Wisconsin,2020,Number,49000
+State,Wisconsin,2020,Percent,0.05
+State,Wisconsin,2011,Number,70000
+State,Wisconsin,2011,Percent,0.07
+State,Wisconsin,2012,Percent,0.06
+State,Wisconsin,2012,Number,58000
+State,Wisconsin,2014,Number,43000
+State,Wisconsin,2014,Percent,0.04
+State,Wisconsin,2016,Percent,0.03
+State,Wisconsin,2016,Number,28000
+State,Wisconsin,2017,Number,23000
+State,Wisconsin,2017,Percent,0.02
+State,Wisconsin,2019,Number,26000
+State,Wisconsin,2019,Percent,0.03
+State,Wisconsin,2021,Number,34000
+State,Wisconsin,2021,Percent,0.04
+State,Wyoming,2021,Number,4000
+State,Wyoming,2021,Percent,0.04
+State,Wyoming,2019,Percent,0.02
+State,Wyoming,2019,Number,2000
+State,Wyoming,2016,Number,5000
+State,Wyoming,2016,Percent,0.04
+State,Wyoming,2017,Percent,0.03
+State,Wyoming,2017,Number,3000
+State,Wyoming,2014,Percent,0.03
+State,Wyoming,2014,Number,3000
+State,Wyoming,2012,Number,4000
+State,Wyoming,2012,Percent,0.04
+State,Wyoming,2011,Percent,0.05
+State,Wyoming,2011,Number,5000
+State,Wyoming,2020,Number,4000
+State,Wyoming,2020,Percent,0.05
+State,Wyoming,2015,Percent,0.03
+State,Wyoming,2015,Number,3000
+State,Wyoming,2010,Number,6000
+State,Wyoming,2010,Percent,0.06
+State,Wyoming,2009,Percent,0.06
+State,Wyoming,2009,Number,6000
+State,Wyoming,2018,Number,3000
+State,Wyoming,2018,Percent,0.03
+State,Wyoming,2013,Percent,0.03
+State,Wyoming,2013,Number,3000
+State,Wyoming,2008,Percent,0.02
+State,Wyoming,2008,Number,2000
+State,Wyoming,2007,Number,2000
+State,Wyoming,2007,Percent,0.02
